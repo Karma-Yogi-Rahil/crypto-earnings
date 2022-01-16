@@ -2,4 +2,3 @@ streamlit
 dataclasses
 alpha_vantage
 requests 
-json
