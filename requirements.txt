@@ -1,4 +1,4 @@
-stremlits
+stremlit
 dataclasses
 alpha_vantage
 requests 
