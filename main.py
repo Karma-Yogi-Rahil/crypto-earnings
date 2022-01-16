@@ -1,5 +1,5 @@
 from dataclasses import dataclass
-import fiateRates as fr
+#import fiateRates as fr
 import cryptoRates as cr 
 import streamlit as st 
 
