@@ -1,5 +1,3 @@
-from time import time
-from turtle import update
 import requests , json
 #from bs4 import BeautifulSoup
 
@@ -15,7 +13,7 @@ time_next_update = data['time_next_update_utc']
 
 rates = data['rates']
 inr = rates['INR']
-print(inr)
+#print(inr)
 
 
 
