@@ -1,0 +1,5 @@
+stremlits
+dataclasses
+alpha_vantage
+requests 
+json
